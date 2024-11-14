@@ -43,11 +43,11 @@ Role Invite Bot is a Discord bot that manages role invites and provides various 
 
 ### Role Invite Commands
 
-- **Create a Role Invite**: `!rinv create <role> [channel] [duration] [max_uses]`
-- **Update a Role Invite**: `!rinv update <invite_id> <uses>`
-- **Revoke a Role Invite**: `!rinv revoke <invite_id>`
-- **List Role Invites**: `!rinv list`
-- **Set Default Role**: `!rinv setdefault <role>`
+- **Create a Role Invite**: `/rinv create <role> [channel] [duration] [max_uses]`
+- **Update a Role Invite**: `/&rinv update <invite_id> <uses>`
+- **Revoke a Role Invite**: `/rinv revoke <invite_id>`
+- **List Role Invites**: `/rinv list`
+- **Set Default Role**: `/rinv setdefault <role>`
 
 ### Clear Commands
 
